@@ -1,8 +1,8 @@
 ### Hi there! Eu sou a Isabelle
 
-- 🔭 Trabalho com UX/UI Design
-- 🌱 I’m currently lear Flutter
-- 📫 Contate-me no email: isabelle.ito@fatec.sp.gov.br
+- 🔭 Sou Product Designer na Anota AI
+- 🌱 Trabalho com Figma
+- 📫 Contate-me no email: isabelle.ito@anota.ai
 - 😄 Pronouns:  ela/dela
 
 <div align="center">
